@@ -10,7 +10,7 @@
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
-Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/MEXIKO93) 
+Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/MEXIKA93) 
 ---
 
 ### 🤝 Социальные сети:
