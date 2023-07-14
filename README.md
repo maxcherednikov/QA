@@ -5,7 +5,7 @@
 
 ### :man_technologist: Обо мне:
 
-Я начинающий тестировщик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в IT начался в ноябре 2022 года, когда я посnупbл на курсы в SkyPro по профессии QA Engineer. 
+Я начинающий тестировщик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в IT начался в ноябре 2022 года, когда я поступил на курсы в SkyPro по профессии QA Engineer. 
 
 
 Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-MEXIKA93-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/MEXIKA93) 
