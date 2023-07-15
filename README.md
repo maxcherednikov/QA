@@ -7,8 +7,14 @@
 
 Я начинающий тестировщик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">.                                                                                                         Мой путь в IT начался в ноябре 2022 года, когда я поступил на курсы в SkyPro по профессии QA Engineer. 
 
+- :muscle: В настоящий момент улучшаю знания по **SQL**
+- :fire: Большое джелание расти и развиваться сфере ИТ
+- :world_map: Люблю путешествовать
+- :game_die: Играю в настольные игры
 
-Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-MEXIKA93-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/MEXIKA93) 
+
+
+- Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-MEXIKA93-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/MEXIKA93) 
 ---
 
 ### 🤝 Социальные сети:
